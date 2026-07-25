@@ -9,5 +9,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="anim_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="anim_light.svg">
-  <img alt="Ashmit Engine - Live Animated Terminal &amp; Neural Radar" src="anim_dark.svg" width="100%">
+  <img alt="Ashmit Engine - System Architecture Matrix &amp; Live Telemetry" src="anim_dark.svg" width="100%">
 </picture>
